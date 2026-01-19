@@ -1,6 +1,4 @@
-# data-salaries-dataset
-
-## Descripción
+# Descripción
 Este script genera un dataset sintético y realista de perfiles profesionales del ámbito de datos (Data Scientist, Data Engineer, Analyst, ML Engineer, etc.) con información coherente entre experiencia, edad y salario, además de campos operativos como del formulario de la página web que lo genera:
 
 created_at
